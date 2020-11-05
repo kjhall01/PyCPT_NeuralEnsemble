@@ -19,3 +19,5 @@ Rémi Cousin (IRI) for key Ingrid code development and support. Xandre Chourio (
 
 Works Cited:  
 Simon J. Mason, Michael K. Tippet, Lulin Song, Ángel G. Muñoz. 2020. Climate Predictability Tool version 16.5.8. Columbia University Academic Commons.    https://doi.org/10.7916/d8-em5q-0f07
+  
+Ángel G. Muñoz. (2019, November 24). agmunozs/PyCPT: PyCPTv1.5 (Version v1.5). Zenodo. http://doi.org/10.5281/zenodo.3551936
